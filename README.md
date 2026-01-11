@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Yasodh</h1>
-<h3 align="center">Founder & Engineer — I turn ideas into products that actually work.</h3>
+<h3 align="center">Founder & Engineer | I turn ideas into products that actually work.</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" />
@@ -17,7 +17,7 @@ If you're looking to build something great or take your product to the next leve
 
 ## What I'm Building Now
 
-### **TheSora — Founder & Engineer**
+### **TheSora | Founder & Engineer**
 
 Building TheSora from the ground up — a platform that manages projects across multiple organizations while maintaining consistent quality and expertise across different domains.
 
