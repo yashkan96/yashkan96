@@ -17,7 +17,7 @@ If you're looking to build something great or take your product to the next leve
 
 ## What I'm Building Now
 
-### **TheSora | Founder & Engineer**
+### **TheSora | Founding Engineer**
 
 Building TheSora from the ground up — a platform that manages projects across multiple organizations while maintaining consistent quality and expertise across different domains.
 
@@ -32,9 +32,9 @@ Building TheSora from the ground up — a platform that manages projects across 
 
 ## Experience
 
-### **Founding Engineer — OpenAI (TheSora)**
+### **AI Tutor — OpenAI (TheSora)**
 
-Working with OpenAI (2024-2025) as a Founding Engineer, managing language model training and fine-tuning processes.
+Working with OpenAI (2024-2025) as an AI Tutor, managing language model training and fine-tuning processes.
 
 **Highlights**
 
